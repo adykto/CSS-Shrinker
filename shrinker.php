@@ -1,7 +1,7 @@
 <?php
 /**
  * CSS Shrinker v0.0.3
- * https://github.com/adykto/CSSShrinker
+ * http://adykto.github.com/CSS-Shrinker
  *
  * Includes:
  * LESS css compiler, adapted from http://lesscss.org
